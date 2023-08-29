@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\bin\Debug\net7.0\Atividade 6.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\bin\Debug\net7.0\Atividade 6.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\bin\Debug\net7.0\Atividade 6.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\bin\Debug\net7.0\Atividade 6.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\bin\Debug\net7.0\Atividade 6.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\refint\Atividade 6.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\Atividade 6.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Atividades\Atividade 6\obj\Debug\net7.0\ref\Atividade 6.dll

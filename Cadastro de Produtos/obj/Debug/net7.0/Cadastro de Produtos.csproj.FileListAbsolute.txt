@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\bin\Debug\net7.0\Cadastro de Produtos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\bin\Debug\net7.0\Cadastro de Produtos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\bin\Debug\net7.0\Cadastro de Produtos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\bin\Debug\net7.0\Cadastro de Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\bin\Debug\net7.0\Cadastro de Produtos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\refint\Cadastro de Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\Cadastro de Produtos.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Cadastro de Produtos\obj\Debug\net7.0\ref\Cadastro de Produtos.dll

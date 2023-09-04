@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\bin\Debug\net7.0\Fila de Atendimento.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\bin\Debug\net7.0\Fila de Atendimento.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\bin\Debug\net7.0\Fila de Atendimento.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\bin\Debug\net7.0\Fila de Atendimento.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\bin\Debug\net7.0\Fila de Atendimento.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\refint\Fila de Atendimento.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\Fila de Atendimento.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Fila de Atendimento\obj\Debug\net7.0\ref\Fila de Atendimento.dll

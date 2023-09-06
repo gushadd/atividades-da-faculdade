@@ -1,4 +1,6 @@
-﻿namespace Atividade_2;
+//Autores: Gustavo Marvila Haddad Elias e Joas Sedano das Neves
+
+namespace Atividade_2;
 
 class Program
 {
